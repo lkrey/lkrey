@@ -1,4 +1,4 @@
-## Hi there! I'm Laura :) ✌
+## Hi there! I'm Laura ✌
 
 ####  💬  Elevator Pitch: 
 Prior to coding, I always found myself itching to contribute more. Shortly after completing a few free workshops and probing some engineers at work, I started piecing together how to make my dream career a reality.
