@@ -8,7 +8,7 @@ Toward the end of 2020 a small investment (₿) allowed me to save enough money 
 Now as a recent graduate, I plan to represent the LGBTQ+ community in Big Tech as a Software Engineer. I hope to inspire and spread awareness to other women+, letting them know that they, too, are capable of being software engineers.
 
 ####  📅 Day-to-day:
-I’m currently spending the majority of my time studying data structures and algorithms. A gap in my commit history is likely because I am glued to Leetcode or solving problems from Cracking The Coding Interview 
+I’m currently spending the majority of my time studying data structures and algorithms. A gap in my commit history is likely because I am glued to Leetcode, or haning out with my current bff - my whiteboard, solving problems from Cracking The Coding Interview.
 
 ####  📫  Let's connect: 
 https://www.linkedin.com/in/laurakrey/
