@@ -3,7 +3,8 @@
 #### 🏳️‍🌈  Pronouns:
 she/her/they 
 
-💡 I’m currently spending the majority of my time studying data structures and algorithms. A gap in my commit history is likely because I am glued to Leetcode or solving problems from Cracking The Coding Interview 
+#### 📅 Day-to-day:
+I’m currently spending the majority of my time studying data structures and algorithms. A gap in my commit history is likely because I am glued to Leetcode or solving problems from Cracking The Coding Interview 
 
 #### 📫  Let's connect: 
 https://www.linkedin.com/in/laurakrey/
