@@ -1,4 +1,4 @@
-### G'Day! 👋
+### Hi there! I'm Laura :) 👋
 💡 I’m currently spending the majority of my time studying data structures and algorithms. A gap in my commit history is likely because I am glued to Leetcode or solving problems from Cracking The Coding Interview 
 
 🏳️‍🌈  Pronouns: she/her/they 
