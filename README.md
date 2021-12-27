@@ -1,7 +1,7 @@
 ## Hi there! I'm Laura ✌
 
 ####  💬  Elevator Pitch: 
-Prior to coding, I always found myself itching to contribute more. Shortly after completing a few free workshops and probing some engineers at work, I started piecing together how to make my dream career a reality.
+Prior to coding, I always found myself itching to contribute more. Shortly after completing a few online workshops and probing some engineers at work, I started piecing together how to make my dream career a reality.
 
 Toward the end of 2020 a small investment (₿) allowed me to save enough money to enroll in the App Academy Bootcamp Prep course. With no turning back, I studied every day and was accepted to The Grace Hopper Program at Fullstack Academy in March 2021.
 
