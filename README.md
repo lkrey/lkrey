@@ -17,7 +17,7 @@ https://www.linkedin.com/in/laurakrey/
 she/her/they 
 
 ####  🤠  Fun fact:
-I have always wanted to learn how to play Bridge, the card game! Please reach out if you know how to play or want somebody to learn with.
+I play tennis competitively and enjoy dirtbiking... & most extreme sports. Additionally, I have always wanted to learn how to play Bridge, the card game! Please reach out if you know how to play or want somebody to learn with.
 
 #### 👩‍💻 Technical Skills:
 Proficient: Javascript, React, Redux, CSS/HTML, MaterialUI, Git
