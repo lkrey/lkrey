@@ -8,7 +8,7 @@ Toward the end of 2020 a small investment (₿) allowed me to save enough money 
 Now as a recent graduate, I plan to represent the LGBTQ+ community in Big Tech as a Software Engineer. I hope to inspire and spread awareness to other women+, letting them know that they, too, are capable of being software engineers.
 
 ####  📅 Day-to-day:
-I’m currently spending the majority of my time studying data structures and algorithms. A gap in my commit history is likely because I am glued to Leetcode - or hanging out with my new best friend (my whiteboard) - solving problems from Cracking The Coding Interview.
+I’m currently a Software Engineer at JPMorgan Chase & Co. 
 
 ####  📫  Let's connect: 
 https://www.linkedin.com/in/laurakrey/
@@ -20,8 +20,8 @@ she/her/they
 I have always wanted to learn how to play Bridge, the card game! Please reach out if you know how to play or want somebody to learn with.
 
 #### 👩‍💻 Technical Skills:
-Proficient: Javascript, React, Redux, Express, Sequelize, PostgreSQL
+Proficient: Javascript, React, Redux, CSS/HTML, MaterialUI, Git
 
-Knowledgeable: CSS/HTML, Semantic UI, Git/GitHub, Node, React Hooks, Cloud Firestore
+Knowledgeable: Typescript, React Hooks, Sequelize, PostgreSQL, Express, Semantic UI 
 
-Familiar: Solidity, Android Studio, MapBox, Heroku
+Familiar: Solidity, Android Studio, MapBox, Heroku, Cloud Firestore
