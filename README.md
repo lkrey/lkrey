@@ -8,7 +8,7 @@ Toward the end of 2020 a small investment (₿) allowed me to save enough money 
 I plan to represent the LGBTQ+ community in Big Tech as a Software Engineer. I hope to inspire and spread awareness to other women+, letting them know that they, too, are capable of being software engineers.
 
 ####  📅 Day-to-day:
-I’m currently a Software Engineer at JPMorgan Chase & Co. 
+I’m currently a Software Engineer at JPMorgan Chase & Co. in New York City.
 
 ####  📫  Let's connect: 
 https://www.linkedin.com/in/laurakrey/
