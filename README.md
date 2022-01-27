@@ -14,14 +14,14 @@ I’m currently a Software Engineer at JPMorgan Chase & Co.
 https://www.linkedin.com/in/laurakrey/
 
 ####  🏳️‍🌈  Pronouns:
-she/her/they 
+she/her
 
 ####  🤠  Fun fact:
-I play tennis competitively and enjoy dirtbiking... & most extreme sports. Additionally, I have always wanted to learn how to play Bridge, the card game! Please reach out if you know how to play or want somebody to learn with.
+I play tennis competitively, enjoy dirtbiking, and will try (almost) any extreme sport. Additionally, I have always wanted to learn how to play Bridge, the card game! Please reach out if you know how to play or want somebody to learn with.
 
 #### 👩‍💻 Technical Skills:
-Proficient: Javascript, React, Redux, CSS/HTML, MaterialUI, Git
+Proficient: Javascript, React, MaterialUI
 
-Knowledgeable: Typescript, React Hooks, Sequelize, PostgreSQL, Express, Semantic UI 
+Knowledgeable: Typescript, React Hooks, AWS, Kubernetes, Docker
 
-Familiar: Solidity, Android Studio, MapBox, Heroku, Cloud Firestore
+Familiar: Java, Solidity, Cloud Firestore
