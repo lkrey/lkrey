@@ -16,7 +16,7 @@ https://www.linkedin.com/in/laurakrey/
 ####  🏳️‍🌈  Pronouns:
 she/her
 
-####  🤠  Fun fact:
+####  🤠  Fun facts:
 I play tennis competitively, enjoy dirtbiking, and will try (almost) any extreme sport. Additionally, I have always wanted to learn how to play Bridge, the card game! Please reach out if you know how to play or want somebody to learn with.
 
 #### 👩‍💻 Technical Skills:
