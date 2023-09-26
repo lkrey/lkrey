@@ -8,7 +8,7 @@ Toward the end of 2020 a small investment (₿) allowed me to save enough money 
 I plan to represent the LGBTQ+ community in Big Tech as a Software Engineer. I hope to inspire and spread awareness to other women+, letting them know that they, too, are capable of being software engineers.
 
 ####  📅 Day-to-day:
-I’m currently a Software Engineer at JPMorgan Chase & Co. in New York City.
+I’m a Software Engineer at JPMorgan Chase & Co. in New York City and a competitive Triathlete.
 
 ####  📫  Let's connect: 
 https://www.linkedin.com/in/laurakrey/
@@ -17,10 +17,10 @@ https://www.linkedin.com/in/laurakrey/
 she/her
 
 ####  🤠  Fun facts:
-I play competitive tennis, enjoy dirtbiking, and will try (almost) any extreme sport. Additionally, I have always wanted to learn how to play Bridge, the card game! Please reach out if you know how to play or want somebody to learn with.
+I love to play tennis, enjoy dirtbiking, and will try (almost) any extreme sport. Additionally, I have always wanted to learn how to play Bridge, the card game! Please reach out if you know how to play or want somebody to learn with.
 
 #### 👩‍💻 Technical Skills:
-Proficient: Javascript, React, MaterialUI
+Proficient: Typescript, Javascript, React.JS, MaterialUI
 
 Knowledgeable: Typescript, React Hooks, AWS, Kubernetes, Docker
 
